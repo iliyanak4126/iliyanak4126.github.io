@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Iliyana's Week 8"
+title: "Iliyana's Week 8 and Week 9"
 date: 2018-11-11
 
 ---
+WEEK 8:
 
 During the past week(November 5 to November 8) in AP Computer Science, we learned the following topics: Intro to Stucts, Data Definitions and Designing Functions with Examples. 
 
@@ -37,3 +38,14 @@ taller- than(red-valvet-cake, birthday-cake is true
 Examples help us design fuction because when a function is given to us it shows what is needed. By the example we show what are the stuff that were show in the fuction but now you substitute the string and the number with words and actual numbers. 
 
 Well this was what we lear this week, see you soon! :)
+
+
+
+
+WEEK 9:
+
+Welcome back, to my blog!
+This past week(November 13-16), in APCS, we did the following topics:Filtering Tables and Asking Questions with Data + The Reflection of Week 8&9.
+
+On Tuesday(Nov. 13) we did Filtering Tables. Filtering Tables are tables that represent stuff in it. For examples a table has columms that have titles(name, species, gender, age, fixed, legs, pounds and weeks)which represent either string, number or boolean. After those titles you have fields that support the specific title with a number,string or boolean. The computer recognizes the type of data the table has in it and shows it as a table. We could demonstrate tables as quantitative or qualitative. 
+We also talked about what's the different types of questions we may have to ask. There's three types of datas which are LookUp Questions, Computed Questions and Analysis Questions. LookUp questions are
