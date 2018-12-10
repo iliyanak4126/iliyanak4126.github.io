@@ -21,4 +21,4 @@ Wednesday and Thursday, we are going over the midterm and the propabilities of t
  Explanation: MS1, APP, generate applications
  Answer permulations (All answers permuted)
 
-I picked this question because 
+I picked this question because it shows how a function is displayed and what it needs in order to make the certain image or a problem or to solve anything. This question displays how the contract is given and you need to match it with the right function. This is a level of appreince because it takes 1 or 2 steps in order to fihure it out and you seen a question like that before in class or somewhere else. This is a MS1 because you are matching contracts and evalutating expressions in order to indetify what you will get. 
