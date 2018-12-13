@@ -45,7 +45,8 @@ flag7 = overlay-xy(stripe,0,13 * nsh,flag6)
 
 blue-rectangle = rectangle(174 * blue-rectangle-width, 174 * blue-rectangle-height, "solid", "blue")
 
-flag8 = overlay-xy(blue-rectangle, 0,0, flag7)```
+flag8 = overlay-xy(blue-rectangle, 0,0, flag7)
+```
  
  Some questions I had were:
  * How would I put the 13 stripes together plus a rectangle with 50 stars?
