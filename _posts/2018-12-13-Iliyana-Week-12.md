@@ -21,7 +21,8 @@ Thursday(December 13)
 
 This is the code from the USA Flag that I used:
 
-```include image
+```
+include image
 size = 100 
 width = size * 1.9
 height = size * 1
