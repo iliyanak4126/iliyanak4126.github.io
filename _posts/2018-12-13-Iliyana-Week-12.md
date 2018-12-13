@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iliyana's Week 12"
+title: "Iliyana's Week 12- Flag Project- In Process"
 date: 2018-12-13
 ---
 Welcome Back to my blog... Week 12! YAY!
@@ -17,9 +17,10 @@ Wednesday(December 12)
 Thursday(December 13)
 
 
-![Flag Image](/image/flag.png)
+![Flag Image](/images/flag.png)
 
 This is the code from the USA Flag that I used:
+
 ```include image
 size = 100 
 width = size * 1.9
@@ -46,3 +47,14 @@ blue-rectangle = rectangle(174 * blue-rectangle-width, 174 * blue-rectangle-heig
 
 flag8 = overlay-xy(blue-rectangle, 0,0, flag7)```
  
+ Some questions I had were:
+ * How would I put the 13 stripes together plus a rectangle with 50 stars?
+ *How would the stars be placed so they could be equal spaced from each other? 
+ *Also how would the 13 stripes work and be equaled spaced?
+ 
+ The code that I have, some of it I got from Mr.Allatta which is the first three lines. Afther that I had to define everything by myself. I got some help from my classmate named Derek and also Mr. Allata. A specific code that Mr.Allatta and I disscused was "overlay-xy" because I wanted to place things all together either with overlay or place imaged, but I've seen overlay-xy in the Pyret website and also it puts image 1 which is x over image 2 which is y. So like it combines the two images by putting it onto each other. But something special about overlay-xy is that when it puts the two images into each other and lines their upper left sides, the x-axis of image two shifts it to the right and the y-axis shits it down. I used it because I need to shift my stripes up and down and certain positions in order to get the 13 stripes equal distanced and fit them together on my base(image one which in this case is red). 
+Some challenges I have are how am I gotta put all these 50 stars together in the blue rectangle and how would they still be the same equal spaced distanced when the size of the flag is bigger or smaller. 
+
+Some things I'm really looking forward is putting those god dam stars together so they could fit in the blue rectangle and when the flag is in larger or smaller sizes would still fit. 
+
+Hopefully I could show you my flag next week! See you next week! :)
