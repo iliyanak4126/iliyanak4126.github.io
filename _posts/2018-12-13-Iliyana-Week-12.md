@@ -17,6 +17,7 @@ Wednesday(December 12)
 Thursday(December 13)
 
 
+![Flag Image](/image/flag.png)
 
 This is the code from the USA Flag that I used:
 ```include image
