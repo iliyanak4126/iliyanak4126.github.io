@@ -57,4 +57,4 @@ Some challenges I have are how am I gotta put all these 50 stars together in the
 
 Some things I'm really looking forward is putting those god dam stars together so they could fit in the blue rectangle and when the flag is in larger or smaller sizes would still fit. 
 
-Hopefully I could show you my flag next week! See you next week! :)
+Hopefully I could show you my flag next week! See you next week!:)
