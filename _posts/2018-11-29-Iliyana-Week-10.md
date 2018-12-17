@@ -11,12 +11,14 @@ On Tuesday we had the actually Midterm which was going okay but it was kinda har
 Wednesday and Thursday, we are going over the midterm and the propabilities of the questions and answers the students did. 
 
  The question I picked was:(Verson 1=19, Version 2=21)
+ ```
       6. Which function application matches the contract below?
                     #message-cost:: Number -> Numbe
    a) message-cost(16)
    b) message-cost("where are you")
    c) message-cost(25,15)
    d) prefer-flavor("lemon","lime")
+   ```
  Correct asnwers(A)
  Explanation: MS1, APP, generate applications
  Answer permulations (All answers permuted)
