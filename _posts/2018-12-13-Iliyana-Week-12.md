@@ -8,14 +8,18 @@ Welcome Back to my blog... Week 12! YAY!
 The past week(December 10-13), we did the following:
 Monday(December 10), we didn't have regular lessons because Mr. Allatta was out but we had assign work to complete. For example we had to update our blogs, or work on our collage project. I decided to update all my blogs because last week's blog, I didn't have time to finish it, so it was a good time to do so now. 
 
-Tuesday(December 11)
+Tuesday(December 11)we did Beginning Flag programs. Here we started with the given code from Mr. Allata which was 
+```
+include image
+size = 100 
+width = size * 1.9
+height = size * 1
+```
+This code helped me start my flag because it gives you the proportions of the outside rectangle which would represent the base of the USA flag. 
 
+Wednesday(December 12) we had the chance of contining on programing for our project. I did the 13 stripes and I tried adding the blue rectangle which would fill with the 50 yellow stars.
 
-Wednesday(December 12)
-
-
-Thursday(December 13)
-
+Thursday(December 13) we did the Flag Reflection- In Progress Reflection. Which is below:
 
 ![Flag Image](/images/flag.png)
 
