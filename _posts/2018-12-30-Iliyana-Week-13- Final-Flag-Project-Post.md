@@ -16,7 +16,7 @@ date: 2018-12-21
 ## Current output
 
 * * *
-![Flag](/images/final-flag2.png)
+![Flag](/images/flag2.png)
 * * *
 
 ## Describe your process.
