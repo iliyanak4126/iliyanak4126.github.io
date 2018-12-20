@@ -1,10 +1,5 @@
 ---
 layout: post
-title: "Iliyana's Week 13- Final Flag Project Blog Post"
-date: 2018-12-20
----
----
-layout: post
 title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
