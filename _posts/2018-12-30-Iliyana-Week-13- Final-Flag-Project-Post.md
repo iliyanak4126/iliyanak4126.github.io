@@ -22,11 +22,8 @@ Some questions, strategies that help me were how I would place the stripes and a
 
 
 ## Explain your code.
-
--   Explain each argument in the code section. _then delete this instruction_
-The code I choosed to explain is this because it shows how my 13 stripes and my base join together. Also I added the blue flag in it too. 
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
+The code I choosed to explain is this because it shows how my 13 stripes and my base join together. Also I added the blue flag in it too. So I used overlay-xy in order to put the red base on the bottom and than on the top I would add the red stripes. I used flag#(flag1, flag2,flag8) in order to put the next stripe on the base after the first one. Than I would use the stripe and the position of it, in order to place them equal-distanced from each other. NSH is negative stripe height and I used it because overlay-xy uses only negative numbers. So nsh would help me by putting positive numbers and place them where  I want even if I were to use negative numbers.
+Overlay-xy helps the whole project because it places my stipes on my base wherever I want to. If I wasn't using overlay-xy, than I wouldn't been able to place my flag together and everything wouldve been a  mess. 
 * * *
 
 ```
@@ -51,11 +48,11 @@ flag8 = overlay-xy(blue-rectangle, 0,0, flag6)
 ```
 
 * * *
+The code I posted puts all the United States of America flag together. First I used the size of the base(red rectangle where everything would be on) which has a width of size of the flag * 1.9  and an height of the size of the flag * 1. The stripe-height is the height of the base by 0.076(this is the original stripe height size). The blue rectangle(where the 50 stars are) has an height and a width which are blue-rectangle-width (stripe-height divide by 7) and than multiplied by 0.076 and blue-rectangle-height is (stripe height divide by 7) and than multiplied by 0.5385. For blue-rectangle-width I used the stripe-height divide by 7 because the blue rectangle only covers 7/13 of the stripes on the flag. and I multiply it by 0.76 because thats the width of the blue rectangle. Is the same thing for blue-stripe-height you use te stripe height and divide it by 7 because it only covers the first 7/13 stripes of the flag. Than I multiplies bt 0.5386 because that's the height of the blue rectangle.
+After that I used overlay-xy in order to place the 7 white stripes on the red base. The red base was representing the red stripes. Each white stripe had a specific place to be. The flag# represent each of the 7 white stripe being put on the red base. So for example if you were to type flag6 in the interaction side of Pyret, only the white/red stripes would show on(no blue-rectangle yet).
 
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
+ My code section fits into the whole because by identifying the flag# it show step by step how I added the 7 white stripes. Than when added the blue-rectangle I again showed it by flag8 which would represent the whole flag I have without the stars. So if I would to add the 50 stars I wouldv'e have been adding more of the flag# in order to identify step by step how my stars fitten in the blue rectangle. 
+
 
 
 ## Program code
